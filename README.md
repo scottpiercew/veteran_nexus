@@ -3,7 +3,7 @@
 
 This app was built following Test Driven Development using ```rspec, Capybara``` and Behavior Driven Development using a flushed out storyboard. I've written about the major steps I took to build my first TDD and BDD application. The setup was in major part thanks to Startup Rocket's tutorial.
 
-##My First Passing Feature Spec!
+## My First Passing Feature Spec!
 <img width="442" alt="first-feature-test-passed" src="https://user-images.githubusercontent.com/28062032/28342630-384c4568-6be7-11e7-8da7-ac6547cc2d4a.png">
 
 
@@ -13,12 +13,11 @@ Things you may want to cover:
 
 * System dependencies
 
-* Configuration
+### Configuration
 
-I used these gems to setup TDD/BDD for this app
+I used these gems to setup TDD/BDD for this app and installed Qt for compiling capybara webkit.
 
-Installed Qt for compiling capybara webkit
-
+```
 group :development, :test do
   gem 'rspec-rails'
   gem 'factory_girl_rails'
@@ -28,6 +27,7 @@ group :test do
   gem 'faker'
   gem 'capybara-webkit'
 end
+```
 
 * Database creation
 
@@ -39,7 +39,8 @@ end
 
 * Deployment instructions
 
-* Resources
+### Resources
+
 https://en.wikipedia.org/wiki/Behavior-driven_development
 
 https://www.startuprocket.com/articles/how-to-setup-a-rails-app-for-test-driven-and-behavior-driven-development-with-rspec-and-capybara
