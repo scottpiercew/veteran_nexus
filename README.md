@@ -1,10 +1,9 @@
-# README
+# Veteran Nexus
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-This app was built following Test Driven Development and Behavior Driven Development
+This app was built following Test Driven Development using ```rspec, Capybara``` and Behavior Driven Development using a flushed out storyboard. I've written about the major steps I took to build my first TDD and BDD application. The setup was in major part thanks to Startup Rocket's tutorial.
 
+##My First Passing Feature Spec!
 <img width="442" alt="first-feature-test-passed" src="https://user-images.githubusercontent.com/28062032/28342630-384c4568-6be7-11e7-8da7-ac6547cc2d4a.png">
 
 
