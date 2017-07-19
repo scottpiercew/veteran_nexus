@@ -15,7 +15,7 @@ Things you may want to cover:
 
 ### Configuration
 
-I used these gems to setup TDD/BDD for this app and installed Qt for compiling capybara webkit.
+I used these gems to setup TDD/BDD for this app.
 
 ```
 group :development, :test do
@@ -28,6 +28,9 @@ group :test do
   gem 'capybara-webkit'
 end
 ```
+```factory_girl_rails``` generates test data
+```faker``` generates fake data: names, addresses
+```capybara-webkit``` Webkit driver for Capybara. Capybara is an integration testing tool for web applications. It simulates how a user would interact with a website. I installed Qt for compiling capybara webkit.
 
 * Database creation
 
