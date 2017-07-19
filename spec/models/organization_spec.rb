@@ -1,4 +1,5 @@
 require 'rails_helper'
+
 describe Organization do
  it "has a valid factory" do
  build(:organization).should be_valid
