@@ -7,6 +7,10 @@ class OrganizationsController < ApplicationController
     @organizations = Organization.all
   end
 
+  def categories
+    # organizations/:category_id
+  end
+
   # GET /organizations/1
   # GET /organizations/1.json
   def show

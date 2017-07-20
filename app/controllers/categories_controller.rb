@@ -21,6 +21,8 @@ class CategoriesController < ApplicationController
   def edit
   end
 
+
+
   # POST /categories
   # POST /categories.json
   def create
