@@ -6,8 +6,19 @@
   </div>
   <nav>
     <ul>
-      <li><%= link_to "Organizations", organizations_path %></li>
       <li><%= link_to "About", about_path%></li>
+      <div class="dropDown">
+        <ul>
+          <li>
+            <a href="#">View Categories</a>
+            <ul>
+              <li><%= link_to "All Organizations", organizations_path %></li>
+              <li><a href="#">Link 2</a></li>
+              <li><a href="#">Link 3</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
     </ul>
   </nav>
 </div>

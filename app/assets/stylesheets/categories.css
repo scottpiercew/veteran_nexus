@@ -65,3 +65,10 @@
        margin-left: 1em;
      }
    }*/
+
+.fa {
+  width: 2em;
+}
+.fa a:hover {
+  text-shadow: 1px 1px 1px #b7b5b5;
+}

@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/spec/controllers/categories_controller_spec.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/spec/controllers/categories_controller_spec.rb": [
         1,
         null,
         null,
@@ -151,7 +151,7 @@
         null,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/spec/rails_helper.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/spec/rails_helper.rb": [
         null,
         1,
         1,
@@ -213,14 +213,14 @@
         1,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/config/environment.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/config/environment.rb": [
         null,
         1,
         null,
         null,
         1
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/config/application.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/config/application.rb": [
         1,
         null,
         1,
@@ -252,12 +252,12 @@
         null,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/config/boot.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/config/boot.rb": [
         1,
         null,
         1
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/config/environments/test.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/config/environments/test.rb": [
         1,
         null,
         null,
@@ -301,7 +301,7 @@
         null,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/config/initializers/application_controller_renderer.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/config/initializers/application_controller_renderer.rb": [
         null,
         null,
         null,
@@ -309,7 +309,7 @@
         null,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/config/initializers/assets.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/config/initializers/assets.rb": [
         null,
         null,
         null,
@@ -325,7 +325,7 @@
         null,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/config/initializers/backtrace_silencers.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/config/initializers/backtrace_silencers.rb": [
         null,
         null,
         null,
@@ -334,20 +334,20 @@
         null,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/config/initializers/cookies_serializer.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/config/initializers/cookies_serializer.rb": [
         null,
-        null,
-        null,
-        null,
-        1
-      ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/config/initializers/filter_parameter_logging.rb": [
         null,
         null,
         null,
         1
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/config/initializers/inflections.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/config/initializers/filter_parameter_logging.rb": [
+        null,
+        null,
+        null,
+        1
+      ],
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/config/initializers/inflections.rb": [
         null,
         null,
         null,
@@ -365,13 +365,13 @@
         null,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/config/initializers/mime_types.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/config/initializers/mime_types.rb": [
         null,
         null,
         null,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/config/initializers/wrap_parameters.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/config/initializers/wrap_parameters.rb": [
         null,
         null,
         null,
@@ -387,7 +387,7 @@
         null,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/spec/factories/categories.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/spec/factories/categories.rb": [
         1,
         1,
         1,
@@ -395,7 +395,7 @@
         null,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/spec/factories/categorizations.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/spec/factories/categorizations.rb": [
         1,
         1,
         1,
@@ -403,7 +403,7 @@
         null,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/spec/factories/comments.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/spec/factories/comments.rb": [
         1,
         1,
         1,
@@ -417,7 +417,7 @@
         null,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/spec/factories/organizations.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/spec/factories/organizations.rb": [
         1,
         1,
         1,
@@ -434,7 +434,7 @@
         null,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/config/routes.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/config/routes.rb": [
         1,
         1,
         null,
@@ -449,25 +449,25 @@
         null,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/app/helpers/application_helper.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/app/helpers/application_helper.rb": [
         1,
         null,
         null,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/app/helpers/categories_helper.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/app/helpers/categories_helper.rb": [
         1,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/app/helpers/comments_helper.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/app/helpers/comments_helper.rb": [
         1,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/app/helpers/organizations_helper.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/app/helpers/organizations_helper.rb": [
         1,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/app/controllers/categories_controller.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/app/controllers/categories_controller.rb": [
         1,
         1,
         null,
@@ -550,101 +550,12 @@
         null,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/app/controllers/application_controller.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/app/controllers/application_controller.rb": [
         1,
         1,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/spec/controllers/comments_controller_spec.rb": [
-        1,
-        1,
-        null,
-        1,
-        1,
-        1,
-        1,
-        1,
-        null,
-        null,
-        null
-      ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/app/controllers/comments_controller.rb": [
-        1,
-        1,
-        null,
-        null,
-        null,
-        1,
-        1,
-        null,
-        null,
-        null,
-        null,
-        1,
-        null,
-        null,
-        null,
-        1,
-        0,
-        null,
-        null,
-        null,
-        1,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        null,
-        0,
-        0,
-        0,
-        0,
-        null,
-        0,
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        0,
-        0,
-        0,
-        null,
-        0,
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        0,
-        0,
-        0,
-        0,
-        null,
-        null,
-        null,
-        1,
-        null,
-        1,
-        0,
-        null,
-        null,
-        null,
-        1,
-        0,
-        null,
-        null
-      ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/spec/controllers/organizations_controller_spec.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/spec/controllers/comments_controller_spec.rb": [
         1,
         1,
         null,
@@ -657,7 +568,7 @@
         null,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/app/controllers/organizations_controller.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/app/controllers/comments_controller.rb": [
         1,
         1,
         null,
@@ -665,10 +576,6 @@
         null,
         1,
         1,
-        null,
-        null,
-        1,
-        null,
         null,
         null,
         null,
@@ -737,7 +644,100 @@
         null,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/spec/features/visitor_visits_public_pages_spec.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/spec/controllers/organizations_controller_spec.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/app/controllers/organizations_controller.rb": [
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
+        0,
+        null,
+        null,
+        null,
+        1,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null
+      ],
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/spec/features/visitor_visits_public_pages_spec.rb": [
         1,
         1,
         null,
@@ -754,7 +754,7 @@
         null,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/spec/models/categorization_spec.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/spec/models/categorization_spec.rb": [
         null,
         1,
         null,
@@ -769,18 +769,18 @@
         null,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/app/models/categorization.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/app/models/categorization.rb": [
         1,
         1,
         1,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/app/models/application_record.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/app/models/application_record.rb": [
         1,
         1,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/spec/models/category_spec.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/spec/models/category_spec.rb": [
         1,
         null,
         1,
@@ -792,14 +792,14 @@
         null,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/app/models/category.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/app/models/category.rb": [
         1,
         1,
         1,
         1,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/spec/models/comment_spec.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/spec/models/comment_spec.rb": [
         1,
         null,
         1,
@@ -816,14 +816,14 @@
         null,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/app/models/comment.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/app/models/comment.rb": [
         1,
         1,
         1,
         1,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/spec/models/organization_spec.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/spec/models/organization_spec.rb": [
         1,
         null,
         1,
@@ -835,7 +835,7 @@
         null,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/app/models/organization.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/app/models/organization.rb": [
         1,
         1,
         1,
@@ -843,7 +843,7 @@
         1,
         null
       ],
-      "/Users/robertpierce/dev/dev-learning/veteran_nexus/spec/requests/categories_spec.rb": [
+      "/Users/scotty_pierce/wdi/projects/veteran_nexus/spec/requests/categories_spec.rb": [
         1,
         null,
         1,
@@ -856,6 +856,6 @@
         null
       ]
     },
-    "timestamp": 1500620509
+    "timestamp": 1500667384
   }
 }

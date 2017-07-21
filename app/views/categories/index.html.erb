@@ -10,6 +10,7 @@
   </div>
 </div> -->
 
+
 <h1>We are about getting Veterans and their families connected into communities.</h1>
 
   <div class=categoryHolder>
@@ -26,6 +27,21 @@
             <% end %>
             <h2><%= link_to organization.name, organization_path(organization) %></h2>
             <p><%= organization.description %></p>
+              <%= link_to organization.facebook, target: :_blank do %>
+                 <i class="fa fa-facebook" aria-hidden="true"></i>
+              <% end %>
+              <%= link_to organization.twitter, target: :_blank do %>
+                 <i class="fa fa-twitter" aria-hidden="true"></i>
+              <% end %>
+              <%= link_to organization.instagram, target: :_blank do %>
+                <i class="fa fa-instagram" aria-hidden="true"></i>
+              <% end %>
+              <%= link_to organization.youtube, target: :_blank do %>
+                <i class="fa fa-youtube" aria-hidden="true"></i>
+              <% end %>
+              <%= link_to organization.linkedin, target: :_blank do %>
+                <i class="fa fa-linkedin" aria-hidden="true"></i>
+              <% end %>
             <% end %>
           </span>
         </div>

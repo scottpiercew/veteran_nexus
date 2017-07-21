@@ -37,27 +37,3 @@ a {
 a:hover {
   text-shadow:1px 1px 1px #b7b5b5;
 }
-
-li {
-  display: list-item;
-  text-align: center;
-  font-size: 1.5em;
-}
-
-ul, li {
-  list-style: none;
-  margin: 0 .5em;
-  padding: 0 .2em;
-}
-
-p {
-  display: block;
-}
-
-img {
-  border-style: none;
-}
-
-label {
-  display: block;
-}

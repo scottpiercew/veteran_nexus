@@ -55,3 +55,55 @@
       width: auto;
     }
   }
+
+li {
+  display: list-item;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+ul, li {
+  list-style: none;
+  margin: 0 .5em;
+  padding: 0 .2em;
+}
+
+p {
+  display: block;
+}
+
+img {
+  border-style: none;
+}
+
+label {
+  display: block;
+}
+
+
+.dropDown div a {
+    text-decoration: none;
+    color: white;
+    font-size: .5em;
+    padding: 15px;
+    display:inline-block;
+}
+.dropDown ul {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+.dropDown ul li {display: inline-block;}
+.dropDown ul li:hover {border: red;}
+.dropDown ul li:hover ul {display: block;}
+.dropDown ul li ul {
+  position: absolute;
+  width: 200px;
+  display: none;
+}
+.dropDown ul li ul li {
+  background: #555;
+  display: block;
+}
+.dropDown ul li ul li a {display:block !important;}
+ul li ul li:hover {background: #666;}
