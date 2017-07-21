@@ -22,6 +22,7 @@
         <% category.organizations.each do |organization| %>
           <div class="organizationTypes">
             <p><%= link_to organization.name, organization_path(organization) %></p>
+            <%= image_tag organization.photo_url %>
             <% end %>
           </div>
         <% end %>
