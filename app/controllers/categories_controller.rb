@@ -8,7 +8,7 @@ class CategoriesController < ApplicationController
   end
 
   def about
-    
+
   end
 
   # GET /categories/1

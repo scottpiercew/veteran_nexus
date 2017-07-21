@@ -7,6 +7,7 @@
   #headerLogo {
     max-width: 100%;
     max-height: 3em;
+    z-index: +1;
   }
   .header a:focus {
     border: 2px solid red;
@@ -27,6 +28,9 @@
     margin-right: 0;
     padding-right: 0;
   }
+  #extraHeader {
+    height: 0;
+  }
   @media (min-width: 500px) {
     .header {
       display: flex;
@@ -45,5 +49,9 @@
     .header li {
       display: list-item;
       text-align: right;
+    }
+    #extraHeader {
+      height: 2em;
+      width: auto;
     }
   }
