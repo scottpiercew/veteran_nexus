@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/scottpiercew/veteran_nexus.svg?branch=master)](https://travis-ci.org/scottpiercew/veteran_nexus) [![Coverage Status](https://coveralls.io/repos/github/scottpiercew/veteran_nexus/badge.svg?branch=master)](https://coveralls.io/github/scottpiercew/veteran_nexus?branch=master)
 # Veteran Nexus
 
 
