@@ -43,6 +43,7 @@ group :development, :test do
   gem 'faker'
   gem 'pry-nav'
   gem 'rake'
+  gem 'coveralls', require: false
 end
 
 group :development do
