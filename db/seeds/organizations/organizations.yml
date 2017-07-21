@@ -1,0 +1,53 @@
+organizations:
+  - name: National Veterans Center
+    description: >
+      VVA’s goals are to promote and support the full range of issues important to Vietnam veterans, to create a new identity for this generation of veterans, and to change public perception of Vietnam veterans.
+    photo_url: http://s3.amazonaws.com/veterans_nexus/organizations/VVA_logo.png
+    location: 8719 Colesville Road, Suite 100, Silver Spring, MD 20910
+    facebook: https://www.facebook.com/VietnamVeteransofAmerica
+    twitter: https://twitter.com/VVAmerica
+    instagram:
+    linkedin: https://www.linkedin.com/company/vietnam-veterans-of-america
+    youtube: https://www.youtube.com/user/VietnamVetsAmerica
+    web_url: http://vva.org/
+    category: Education
+
+  - name: Team RWB
+    description: >
+      Team RWB’s mission is to enrich the lives of America’s veterans by connecting them to their community through physical and social activity.
+      Enrichment is defined as creating quality relationships and experiences that contribute to life satisfaction and overall well being. The concept of enrichment consists of three core components—health, people, and purpose—that define a rich life.
+    photo_url: http://s3.amazonaws.com/veterans_nexus/organizations/teamrwb.jpg
+    location: 1110 W. Platt St., Tampa, FL 33606
+    facebook: https://www.facebook.com/groups/Team.RWB.DMV/
+    twitter: https://twitter.com/teamrwb
+    instagram: https://www.instagram.com/teamrwb/
+    linkedin: https://www.linkedin.com/company-beta/1455885
+    youtube: https://www.youtube.com/user/TeamRWB
+    web_url: https://www.teamrwb.org/
+    category: Social
+
+  - name: Blinded Veterans Association
+    description: >
+      The Blinded Veterans Association was established specifically to help veterans and their families meet and overcome the challenges of blindness.
+    photo_url: http://s3.amazonaws.com/veterans_nexus/organizations/bva.png
+    location: 125 N. West Street, 3rd Floor, Alexandria, VA 22314
+    facebook: https://www.facebook.com/blindedveteransassociation
+    twitter: https://twitter.com/blindedveterans
+    instagram:
+    linkedin: https://www.linkedin.com/company/blinded-veterans-association
+    youtube: https://www.youtube.com/blindedveterans
+    web_url: http://bva.org/
+    category: Health
+
+  - name: Veterans of Foreign Wars
+    description: >
+      The Veterans of Foreign Wars of the United States is a nonprofit veterans service organization comprised of eligible veterans and military service members from the active, guard and reserve forces.
+    photo_url: http://s3.amazonaws.com/veterans_nexus/organizations/vfw.png
+    location: 406 W. 34th St., Kansas City, MO 64111
+    facebook: http://www.facebook.com/VFWFans
+    twitter: http://www.twitter.com/vfwhq
+    instagram: https://www.instagram.com/vfwhq/
+    linkedin: https://www.linkedin.com/company/vfwhq
+    youtube: https://www.youtube.com/c/vfwhq
+    web_url: http://vfw.org/
+    category: Fraternal
