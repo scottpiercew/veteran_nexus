@@ -1,6 +1,8 @@
-[![Build Status](https://travis-ci.org/scottpiercew/veteran_nexus.svg?branch=master)](https://travis-ci.org/scottpiercew/veteran_nexus) [![Coverage Status](https://coveralls.io/repos/github/scottpiercew/veteran_nexus/badge.svg?branch=master)](https://coveralls.io/github/scottpiercew/veteran_nexus?branch=master)
+![vnlogo128](https://user-images.githubusercontent.com/1078402/28467064-3af431b8-6df4-11e7-8e9b-84d480375e47.png)
+
 # Veteran Nexus
 
+[![Build Status](https://travis-ci.org/scottpiercew/veteran_nexus.svg?branch=master)](https://travis-ci.org/scottpiercew/veteran_nexus) [![Coverage Status](https://coveralls.io/repos/github/scottpiercew/veteran_nexus/badge.svg?branch=master)](https://coveralls.io/github/scottpiercew/veteran_nexus?branch=master)
 
 This app was built following Test Driven Development using ```rspec, Capybara``` and Behavior Driven Development using a flushed out storyboard. I've written about the major steps I took to build my first TDD and BDD application. The setup was in major part thanks to Startup Rocket's tutorial.
 
