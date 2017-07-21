@@ -3,6 +3,9 @@
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     grid-gap: 1em;
 }
+.categoryHolder hr {
+    border-color: red;
+}
 .categoryTypes {
   flex-direction: column;
   justify-content: center;
@@ -35,6 +38,7 @@
 .organizationTypes img {
   margin-top: 2em;
   max-width: 70%;
+  padding: 2em;
 }
 
 /*.sidebar {
