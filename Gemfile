@@ -42,6 +42,7 @@ group :development, :test do
   gem 'factory_girl_rails'
   gem 'faker'
   gem 'pry-nav'
+  gem 'rake'
 end
 
 group :development do
