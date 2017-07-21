@@ -2,7 +2,12 @@ language: ruby
 rvm:
 - 2.4.0
 
-# env:
-#   - DB=postgres
-#   - SH=bash
-#   - PACKAGE_VERSION="1.0.*"
+before_script:
+– psql -c ‘create database veteran_nexus_test;’ -U postgres
+
+script:
+  - bin/rake db:migrate RAILS_ENV=test
+  - bin/rake
+
+# script:
+# – RAILS_ENV=test bundle exec rake –trace db:migrate spec
