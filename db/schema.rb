@@ -41,6 +41,7 @@ ActiveRecord::Schema.define(version: 20170721023553) do
   create_table "organizations", force: :cascade do |t|
     t.string "name"
     t.string "org_type"
+    t.string "photo_url"
     t.string "location"
     t.string "facebook"
     t.string "twitter"
@@ -51,7 +52,6 @@ ActiveRecord::Schema.define(version: 20170721023553) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.text "description"
-    t.string "photo_url"
   end
 
   add_foreign_key "comments", "organizations"

@@ -1,15 +1,14 @@
-<p id="notice"><%= notice %></p>
+<!-- <p id="notice"><%= notice %></p> -->
 
-<div class="sidebar">
-  <% @categories.each do |category| %>
+<!-- <div class="content">
+  <div class="sidebar">
+    <% @categories.each do |category| %>
     <div class="categoryTypes">
       <span><%= link_to category.name, category_path(category) %></span>
     </div>
-  <% end %>
-</div>
-<div class="content">
-  <p>Stuff to see</p>
-</div>
+    <% end %>
+  </div>
+</div> -->
 
 <h1>We are about getting Veterans and their families connected into communities.</h1>
 
@@ -18,15 +17,19 @@
       <div class="categoryTypes">
         <!-- <span><%= link_to 'Edit', edit_category_path(category) %></span> -->
         <!-- <span><%= link_to 'Destroy', category, method: :delete, data: { confirm: 'Are you sure?' } %></span> -->
-        <span><%= link_to category.name, category_path(category) %></span>
+        <div class="categoryName"><%= link_to category.name, category_path(category) %> Groups</div>
         <% category.organizations.each do |organization| %>
-          <div class="organizationTypes">
-            <p><%= link_to organization.name, organization_path(organization) %></p>
-            <%= image_tag organization.photo_url %>
+          <span class="organizationTypes">
+            <hr>
+            <%= link_to organization_path(organization) do %>
+               <%= image_tag organization.photo_url %>
             <% end %>
-          </div>
-        <% end %>
-      </div>
+            <h2><%= link_to organization.name, organization_path(organization) %></h2>
+            <p><%= organization.description %></p>
+            <% end %>
+          </span>
+        </div>
+      <% end %>
   </div>
 
 

@@ -1,17 +1,4 @@
 organizations:
-  - name: National Veterans Center
-    description: >
-      VVA’s goals are to promote and support the full range of issues important to Vietnam veterans, to create a new identity for this generation of veterans, and to change public perception of Vietnam veterans.
-    photo_url: http://s3.amazonaws.com/veterans_nexus/organizations/VVA_logo.png
-    location: 8719 Colesville Road, Suite 100, Silver Spring, MD 20910
-    facebook: https://www.facebook.com/VietnamVeteransofAmerica
-    twitter: https://twitter.com/VVAmerica
-    instagram:
-    linkedin: https://www.linkedin.com/company/vietnam-veterans-of-america
-    youtube: https://www.youtube.com/user/VietnamVetsAmerica
-    web_url: http://vva.org/
-    category: Education
-
   - name: Team RWB
     description: >
       Team RWB’s mission is to enrich the lives of America’s veterans by connecting them to their community through physical and social activity.
@@ -50,4 +37,160 @@ organizations:
     linkedin: https://www.linkedin.com/company/vfwhq
     youtube: https://www.youtube.com/c/vfwhq
     web_url: http://vfw.org/
-    category: Fraternal
+    category: Social
+
+  - name: Veterans Campaign
+    description: >
+      Veterans Campaign is the only non-partisan, non-ideological organization whose mission is to encourage, mentor and prepare veterans for a "Second Service" in civic leadership.
+    photo_url: https://veterans_nexus.s3.amazonaws.com/organizations/vetcamp.png
+    location: 406 W. 34th St., Kansas City, MO 64111
+    facebook: http://www.facebook.com/VFWFans
+    twitter: http://www.twitter.com/vfwhq
+    instagram: https://www.instagram.com/vfwhq/
+    linkedin: https://www.linkedin.com/company/vfwhq
+    youtube: https://www.youtube.com/c/vfwhq
+    web_url: http://www.veteranscampaign.org/
+    category: Political
+
+  - name: Hill Vets
+    description: >
+      HillVets is a bipartisan group of veterans, service members, and supporters focused on empowerment through networking, community involvement, and education. We have created a strong infrastructure and community that empowers veterans to help others and themselves in progressing up the career ladder.
+    photo_url: https://veterans_nexus.s3.amazonaws.com/organizations/hill-vets.png
+    location: 406 W. 34th St., Kansas City, MO 64111
+    facebook: http://www.facebook.com/VFWFans
+    twitter: http://www.twitter.com/vfwhq
+    instagram: https://www.instagram.com/vfwhq/
+    linkedin: https://www.linkedin.com/company/vfwhq
+    youtube: https://www.youtube.com/c/vfwhq
+    web_url: https://www.hillvets.org/
+    category: Political
+
+  - name: Vote Vets
+    description: >
+      Started in 2006 and backed by more than 500,000 veterans, military family members and their supporters, the mission of VoteVets.org is to use public issue campaigns to give a voice to veterans on matters of national security, veterans' care, and every day issues that affect the lives of those who served, and their families.
+    photo_url: https://veterans_nexus.s3.amazonaws.com/organizations/vv.png
+    location: 406 W. 34th St., Kansas City, MO 64111
+    facebook: http://www.facebook.com/VFWFans
+    twitter: http://www.twitter.com/vfwhq
+    instagram: https://www.instagram.com/vfwhq/
+    linkedin: https://www.linkedin.com/company/vfwhq
+    youtube: https://www.youtube.com/c/vfwhq
+    web_url: http://www.votevets.org/
+    category: Political
+
+  - name: U.S. Department of Veteran Affairs
+    description: >
+      The Veterans Health Administration is America’s largest integrated health care system, providing care at 1,245 health care facilities, including 170 medical centers and 1,065 outpatient sites of care of varying complexity (VHA outpatient clinics), serving 9 million enrolled Veterans each year.
+    photo_url: https://veterans_nexus.s3.amazonaws.com/organizations/dep-vet-affairs.png
+    location: 406 W. 34th St., Kansas City, MO 64111
+    facebook: http://www.facebook.com/VFWFans
+    twitter: http://www.twitter.com/vfwhq
+    instagram: https://www.instagram.com/vfwhq/
+    linkedin: https://www.linkedin.com/company/vfwhq
+    youtube: https://www.youtube.com/c/vfwhq
+    web_url: https://www.va.gov/health/
+    category: Health
+
+  - name: Wounded Warrior Project
+    description: >
+      Wounded Warrior Project® (WWP) serves veterans and service members who incurred a physical or mental injury, illness, or wound, co-incident to their military service on or after September 11, 2001 and their families. On that date, America watched in horror as approximately 3,000 people died including hundreds of firefighters and rescue workers. Many warriors note a sense of duty to volunteer for the military following these tragic events.
+    photo_url: https://veterans_nexus.s3.amazonaws.com/organizations/wwp.png
+    location: 406 W. 34th St., Kansas City, MO 64111
+    facebook: http://www.facebook.com/VFWFans
+    twitter: http://www.twitter.com/vfwhq
+    instagram: https://www.instagram.com/vfwhq/
+    linkedin: https://www.linkedin.com/company/vfwhq
+    youtube: https://www.youtube.com/c/vfwhq
+    web_url: https://www.woundedwarriorproject.org/
+    category: Health
+
+  - name: Honor Flight Network
+    description: >
+      Honor Flight Network is a non-profit organization created solely to honor America’s veterans for all their sacrifices. We transport our heroes to Washington, D.C. to visit and reflect at their memorials. Top priority is given to the senior veterans – World War II survivors, along with those other veterans who may be terminally ill.
+    photo_url: https://veterans_nexus.s3.amazonaws.com/organizations/honor-flight.jpg
+    location: 406 W. 34th St., Kansas City, MO 64111
+    facebook: http://www.facebook.com/VFWFans
+    twitter: http://www.twitter.com/vfwhq
+    instagram: https://www.instagram.com/vfwhq/
+    linkedin: https://www.linkedin.com/company/vfwhq
+    youtube: https://www.youtube.com/c/vfwhq
+    web_url: https://www.honorflight.org/
+    category: Social
+
+  - name: Team Rubicon
+    description: >
+      Team Rubicon unites the skills and experiences of military veterans with first responders to rapidly deploy emergency response teams.
+    photo_url: https://veterans_nexus.s3.amazonaws.com/organizations/team-rubicon.png
+    location: 406 W. 34th St., Kansas City, MO 64111
+    facebook: http://www.facebook.com/VFWFans
+    twitter: http://www.twitter.com/vfwhq
+    instagram: https://www.instagram.com/vfwhq/
+    linkedin: https://www.linkedin.com/company/vfwhq
+    youtube: https://www.youtube.com/c/vfwhq
+    web_url: https://teamrubiconusa.org/
+    category: Disaster-Relief
+
+  - name: DAV
+    description: >
+      Our Disaster Relief Program supports veterans, service members, surviving spouses and their families during times of great need in the aftermath of isolated/specific disasters. The Midwestern and Eastern floods, Western fires, and Central tornadoes are just some of the disasters which have recently impacted veterans and their families.
+    photo_url: https://veterans_nexus.s3.amazonaws.com/organizations/dav.jpg
+    location: 406 W. 34th St., Kansas City, MO 64111
+    facebook: http://www.facebook.com/VFWFans
+    twitter: http://www.twitter.com/vfwhq
+    instagram: https://www.instagram.com/vfwhq/
+    linkedin: https://www.linkedin.com/company/vfwhq
+    youtube: https://www.youtube.com/c/vfwhq
+    web_url: https://www.dav.org/veterans/outreach-programs/disaster-relief/
+    category: Disaster-Relief
+
+  - name: Disaster Assistance Improvement Program
+    description: >
+      The Disaster Assistance Improvement Program’s (DAIP) mission is to provide disaster survivors with information, support, services, and a means to access and apply for disaster assistance through joint data-sharing efforts between federal, tribal, state, local, and private sector partners.
+    photo_url: https://veterans_nexus.s3.amazonaws.com/organizations/disaster-assistance.jpg
+    location: 406 W. 34th St., Kansas City, MO 64111
+    facebook: http://www.facebook.com/VFWFans
+    twitter: http://www.twitter.com/vfwhq
+    instagram: https://www.instagram.com/vfwhq/
+    linkedin: https://www.linkedin.com/company/vfwhq
+    youtube: https://www.youtube.com/c/vfwhq
+    web_url: https://www.disasterassistance.gov/disaster-assistance/assistance-by-federal-agency/federal-agency/11
+    category: Disaster-Relief
+
+  - name: National Veterans Center
+    description: >
+      VVA’s goals are to promote and support the full range of issues important to Vietnam veterans, to create a new identity for this generation of veterans, and to change public perception of Vietnam veterans.
+    photo_url: https://veterans_nexus.s3.amazonaws.com/organizations/VVA_logo.png
+    location: 8719 Colesville Road, Suite 100, Silver Spring, MD 20910
+    facebook: https://www.facebook.com/VietnamVeteransofAmerica
+    twitter: https://twitter.com/VVAmerica
+    instagram:
+    linkedin: https://www.linkedin.com/company/vietnam-veterans-of-america
+    youtube: https://www.youtube.com/user/VietnamVetsAmerica
+    web_url: http://vva.org/
+    category: Education
+
+  - name: VETS Group
+    description: >
+      The Veterans Enterprise Training & Services Group (VETS Group) is a non-profit 501(c) 3, community-based organization, headquartered in Washington, D.C. We provide a holistic program for Veterans and their families to achieve Economic Empowerment through Education, Entrepreneurship, and Employment. Assistance with affordable housing, family strengthening, and health rehabilitation is also offered.
+    photo_url: https://veterans_nexus.s3.amazonaws.com/organizations/vets-group.png
+    location: 8719 Colesville Road, Suite 100, Silver Spring, MD 20910
+    facebook: https://www.facebook.com/VietnamVeteransofAmerica
+    twitter: https://twitter.com/VVAmerica
+    instagram:
+    linkedin: https://www.linkedin.com/company/vietnam-veterans-of-america
+    youtube: https://www.youtube.com/user/VietnamVetsAmerica
+    web_url: http://www.vetsgroup.org/
+    category: Education
+
+  - name: Student Veterans of America
+    description: >
+      To provide military veterans with the resources, support, and advocacy needed to succeed in higher education and following graduation.The heart of SVA is the student-led chapter. SVA supports a network of over 1,300 schools and over 500,000 student veterans. At the individual level, SVA empowers veterans to be informed consumers of higher education and make the most of the transition to civilian life.
+    photo_url: https://veterans_nexus.s3.amazonaws.com/organizations/sva.png
+    location: 8719 Colesville Road, Suite 100, Silver Spring, MD 20910
+    facebook: https://www.facebook.com/VietnamVeteransofAmerica
+    twitter: https://twitter.com/VVAmerica
+    instagram:
+    linkedin: https://www.linkedin.com/company/vietnam-veterans-of-america
+    youtube: https://www.youtube.com/user/VietnamVetsAmerica
+    web_url: https://studentveterans.org/
+    category: Education
