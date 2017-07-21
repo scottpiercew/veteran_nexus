@@ -4,3 +4,8 @@ rvm:
 - 1.9.3
 - jruby-19mode
 - rbx-2
+
+env:
+  - DB=postgres
+  - SH=bash
+  - PACKAGE_VERSION="1.0.*"
