@@ -5,6 +5,7 @@
 }
 .categoryHolder hr {
     border-color: red;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .categoryTypes {
   flex-direction: column;
@@ -13,6 +14,7 @@
   margin: 2em 2% 1em;
   padding: 0 1rem;
   background: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
 }
 .categoryName {
@@ -20,6 +22,7 @@
   background: blue;
   border-radius: 3px;
   color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .categoryName a {
   color: white;
@@ -29,14 +32,13 @@
 }
 .organizationTypes h2 {
   text-align: center;
-  /*text-decoration: underline;*/
   border: ridge;
 }
 .organizationTypes h2 p {
   border: ridge;
 }
 .organizationTypes img {
-  margin-top: 2em;
+  margin-top: 1em;
   max-width: 70%;
   padding: 2em;
 }
@@ -71,4 +73,8 @@
 }
 .fa a:hover {
   text-shadow: 1px 1px 1px #b7b5b5;
+}
+
+.imgShow hr {
+  margin: 0 20%;
 }

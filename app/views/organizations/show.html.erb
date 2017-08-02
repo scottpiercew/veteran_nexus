@@ -1,9 +1,32 @@
 <p id="notice"><%= notice %></p>
 
-<p>
-  <strong>Name:</strong>
-  <%= @organization.name %>
-</p>
+<div class="imgShow">
+  <p><%= image_tag @organization.photo_url %></p>
+  <h2><%= @organization.name %></h2>
+  <p><%= @organization.description %></p>
+  <p>Location: <%= @organization.location %></p>
+  <p>Check out their website:
+  <%= link_to @organization.web_url, target: :_blank do %>
+  <%= @organization.web_url %>
+  <% end %>
+  </p>
+</div>
+<%= link_to @organization.facebook, target: :_blank do %>
+   <i class="fa fa-facebook" aria-hidden="true"></i>
+<% end %>
+<%= link_to @organization.twitter, target: :_blank do %>
+   <i class="fa fa-twitter" aria-hidden="true"></i>
+<% end %>
+<%= link_to @organization.instagram, target: :_blank do %>
+  <i class="fa fa-instagram" aria-hidden="true"></i>
+<% end %>
+<%= link_to @organization.youtube, target: :_blank do %>
+  <i class="fa fa-youtube" aria-hidden="true"></i>
+<% end %>
+<%= link_to @organization.linkedin, target: :_blank do %>
+  <i class="fa fa-linkedin" aria-hidden="true"></i>
+<% end %>
 
-<%= link_to 'Edit', edit_organization_path(@organization) %> |
-<%= link_to 'Back', organizations_path %>
+
+      <!-- <%= link_to 'Edit', edit_organization_path(@organization) %> |
+      <%= link_to 'Back', organizations_path %> -->

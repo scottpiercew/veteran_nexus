@@ -1,9 +1,24 @@
 <p id="notice"><%= notice %></p>
 
-<p>
-  <strong>Name:</strong>
-  <%= @category.name %>
-</p>
+<h2>Search through the list of Veteran <%= @category.name %> organizations</h2>
 
-<%= link_to 'Edit', edit_category_path(@category) %> |
-<%= link_to 'Back', categories_path %>
+<div class="imgShow">
+  <% @category.organizations.each do |organization| %>
+  <div class="imgShow">
+  <hr>
+  <p><%= image_tag organization.photo_url %></p>
+  <h2><%= organization.name %></h2>
+  <p><%= organization.description %></p>
+  <p>Location: <%= organization.location %></p>
+  <p>Check out their website:
+  <%= link_to organization.web_url, target: :_blank do %>
+  <%= organization.web_url %>
+  <div>
+  <% end %>
+  </p>
+</div>
+
+<% end %>
+
+<!-- <%= link_to 'Edit', edit_category_path(@category) %> |
+<%= link_to 'Back', categories_path %> -->

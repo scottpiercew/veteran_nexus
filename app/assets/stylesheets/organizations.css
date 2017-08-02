@@ -19,3 +19,10 @@
 .eachOrganizationIndex img {
   max-width: 40%;
 }
+
+.imgShow img {
+  max-width: 30%;
+}
+.imgShow p {
+  margin: 2em;
+}
