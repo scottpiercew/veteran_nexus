@@ -10,18 +10,18 @@ class OrgTweets
 
   attr_accessor :organizations_twitter_handle, :all_tweets
 
-  def access_tweets
     client = Twitter::REST::Client.new do |config|
-    config.consumer_key        = Secret.get(‘TWITTER_CONSUMER_KEY’)
-    config.consumer_secret     = Secret.get(‘TWITTER_CONSUMER_SECRET’)
-    config.access_token        = Secret.get(‘TWITTER_ACCESS_TOKEN’)
-    config.access_token_secret = Secret.get(‘TWITTER_ACCESS_SECRET’)
+      config.consumer_key        = Secret.get(‘TWITTER_CONSUMER_KEY’)
+      config.consumer_secret     = Secret.get(‘TWITTER_CONSUMER_SECRET’)
+      config.access_token        = Secret.get(‘TWITTER_ACCESS_TOKEN’)
+      config.access_token_secret = Secret.get(‘TWITTER_ACCESS_SECRET’)
     end
 
-    @organizations_twitter_handle.each do |grab_tweets|
+    organizations_twitter_handle.each do |grab_tweets|
       tweets = client.user_timeline(grab_tweets, count: 3)
-      @all_tweets << tweets
+      all_tweets << tweets
     end
-    File.write("tweets.yml", YAML.dump(@all_tweets))
+
+    File.write("tweets.yml", YAML.dump(all_tweets))
   end
 end
