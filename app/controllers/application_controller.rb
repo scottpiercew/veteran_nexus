@@ -4,7 +4,7 @@ class ApplicationController < ActionController::Base
   before_filter :load_tweets
 
   def load_tweets
-    @tweets = Twitter.user_timeline[1..3]
+    @tweets = client.user_timeline[0..3]
   end
 
   private
