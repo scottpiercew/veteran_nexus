@@ -3,7 +3,7 @@
 
 
 class OrgTweets
-
+include 'Twitter'
   organizations_twitter_handle = ["TeamRubicon", "TeamRWB"]
   tweets = []
   all_tweets = []

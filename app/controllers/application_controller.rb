@@ -1,7 +1,7 @@
 class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
   rescue_from ActiveRecord::RecordNotFound, with: :couldnt_find_record
-  before_filter :load_tweets
+  before_action :load_tweets
 
   def load_tweets
     @tweets = client.user_timeline[0..3]
