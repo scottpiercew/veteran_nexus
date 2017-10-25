@@ -1,6 +1,12 @@
 class OrganizationsController < ApplicationController
   before_action :set_organization, only: [:show, :edit, :update, :destroy]
+  before_action :load_tweets
 
+  def load_tweets
+    # @tweets = OrgTweets.get([org_handles])
+    # @tweets = OrgTweets.get(["TeamRubicon"])
+    # client.user_timeline[0..3]
+  end
   # GET /organizations
   # GET /organizations.json
   def index
